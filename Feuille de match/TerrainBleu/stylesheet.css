@@ -1,0 +1,101 @@
+body {
+  height: auto;
+  width: 98%;
+  background-color: pink;
+}
+.wrapper {
+  width: 95%;
+}
+
+#match2,
+#match3,
+#match1 {
+  border: solid 3px black;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  height: 605px;
+  width: 80%;
+  background-color: blue;
+  margin-left: 10%;
+  margin-bottom: 95px;
+}
+/*.equipe1 td {
+  padding: 15px;
+  border: solid 1px black;
+}
+.equipe1 {
+  background-color: white;
+  border: solid 2px black;
+  height: 550px;
+  width: 33%;
+  float: left;
+  margin-right: 175px;
+  margin-left: 75px;
+}*/
+.cartonrouge {
+  width: 40px;
+  background-image: url(img/cartonrouge.png);
+}
+
+.clearfloat {
+  clear: both;
+}
+
+.equipe1 td,
+.equipe2 td,
+.equipe3 td,
+.equipe4 td,
+.equipe5 td,
+.equipe6 td {
+  padding: 20px;
+  border: solid 1px black;
+}
+
+.equipe1,
+.equipe3,
+.equipe4,
+.equipe5,
+.equipe6,
+.equipe2 {
+  background-color: white;
+  border: solid 2px black;
+  height: 480px;
+  width: 38%;
+  float: left;
+  padding-left: 14px;
+
+}
+.equipe2,
+.equipe4,
+.equipe6 {
+  margin-left: 100px;
+}
+.equipe1,
+.equipe3,
+.equipe5 {
+  margin-left: 60px;
+}
+table {
+  height: 350px;
+}
+
+#classement {
+  border: solid 3px black;
+  margin: px;
+  padding: 50px;
+  text-align: center;
+  height: 600px;
+  width: 85%;
+  background-color: purple;
+}
+
+img {
+  position: relative;
+  margin-top: 190px;
+  margin-left: -1000px;
+}
+
+.scorefinal {
+  text-align: center;
+}

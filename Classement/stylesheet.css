@@ -1,0 +1,60 @@
+body {
+  height: auto;
+  width: 98%;
+  background-color: pink;
+}
+.wrapper {
+  width: 95%;
+  height: auto;
+}
+
+ h1 {
+   margin-bottom: -20px;
+  text-align: center;
+
+}
+
+#classement_total {
+  background-color: white;
+  width: 75%;
+  height: auto;
+  /*text-align: center;*/
+  border: solid 2px black;
+  margin-left: 12.5%;
+  margin-top: 50px;
+
+}
+
+.classement {
+  width: 200px;
+}
+.sessions {
+  width: 15%;
+  text-align: center;
+}
+
+td {
+  border: solid 2px black;
+  height: 35px;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  width: 55px;
+  padding: 10px;
+}
+.clearfloat {
+  clear: both;
+}
+
+.medailles {
+  position: relative;
+  width: 60px;
+  height: 100px;
+  float: left;
+  margin-left: 280px;
+  margin-top: -362px;
+}
+
+.medailles img {
+  margin-bottom: 10px;
+  float: left;
+}
